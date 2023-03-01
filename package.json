@@ -1,0 +1,17 @@
+{
+  "name": "jogo-da-velha-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.0.7",
+    "node-modules": "^0.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
